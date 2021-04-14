@@ -29,6 +29,7 @@ CREATE table_name; (email_list)
 SELECT * FROM column_name; (email)
 DESCRIBE table_name; 
 DELETE FROM email_list WHERE email = 'email@someone.com';
+ALTER TABLE email_list ADD id INT NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (id) - column to make each user unique to the database
 
 In this web application:
 addemail.html - web form where the user enter's their first , last name , and email to be added
