@@ -38,17 +38,13 @@ addemail.php - PHP script that adds the form data to the mysql database containi
 first name, last name, and email
 
 For the owner of the web app:
-Sendemail.html - web form for the owner of the app to fill out \
-and to send all the users in the database an email
-
 Sendemail.php - a PHP script that retrieves all the user's emails in the
 database. Used by a while loop to loop through each row under the email column.
 Once the email is sent they should receive a "Dear firstname, last name, and 
 whichever text was written in the form. After the submit the owner will receive
 a small confirmation
 
-If a user no longer wants to receive emails the user or the owner can put their
-email address into the form field of removeemail.html.
+If a user no longer wants to receive emails the user or the owner can check off their name and hit the remove button - this will remove them from the database as well.
 
 removeemail.php - PHP script that takes a query and uses DELETE FROM column
 and a specific row of data and removes it, and in our case it removes any email
