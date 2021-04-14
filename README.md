@@ -55,5 +55,5 @@ that is typed into the web form - from the database
 
 ![addemail](https://user-images.githubusercontent.com/12597841/113635018-6e777180-964a-11eb-8db2-eb9362d2e200.png)
 ![sendemail](https://user-images.githubusercontent.com/12597841/113635026-720af880-964a-11eb-8135-3fd8bf262e53.png)
-![removeemail](https://user-images.githubusercontent.com/12597841/113635033-73d4bc00-964a-11eb-8205-97dfba7af5a0.png)
+![removeemail](https://user-images.githubusercontent.com/12597841/114636626-03f5af80-9ca2-11eb-929a-294511aa1eee.png)
 ![email-in-action](https://user-images.githubusercontent.com/12597841/113635043-78997000-964a-11eb-9118-e0a4b61a325c.png)
